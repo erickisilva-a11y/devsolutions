@@ -1,0 +1,17 @@
+* {
+    margin: 0;
+    padding 0;
+    box-sizing: border-box;
+}
+body {
+    font-family: Aril, sans-serif
+    background-color: rgb(235, 235, 235);
+}
+
+.funcionalidades {
+    padding: 20px;
+    background-color: aqua;
+}
+.funcionalidades h2 {
+    color: blueviolet;
+}
